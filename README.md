@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="https://github.com/randishdeviant">
-    <img src="https://github-readme-stats.vercel.app/api?username=Randishvold&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Randishdeviant's GitHub Stats" />
+    <img src="https://github-readme-stats-extended.vercel.app/api?username=Randishvold&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Randishdeviant's GitHub Stats" />
   </a>
   <br/>
   <a href="https://github.com/randishdeviant">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randishdeviant&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=randishdeviant&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 ### 👤 About Me
 
-Welcome to my page! "Randish Deviant" isn't my real name, but an alias I often use when playing online games. 
+"Randish Deviant" isn't my real name, but an alias I often use when playing online games. 
 
 I'm not a professional programmer, just an enthusiastic tech fan. I enjoy using Artificial Intelligence (AI) to explore and create cool little things.
 
