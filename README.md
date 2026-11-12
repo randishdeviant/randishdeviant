@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/randishdeviant">
-    <img src="https://github-readme-stats-extended.vercel.app/api?username=Randishvold&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Randishdeviant's GitHub Stats" />
+    <img src="https://github-readme-stats-extended.vercel.app/api?username=randishdeviant&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Randishdeviant's GitHub Stats" />
   </a>
   <br/>
   <a href="https://github.com/randishdeviant">
