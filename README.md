@@ -3,12 +3,12 @@
 *An Enthusiast of Technology & the Digital World*
 
 <p align="center">
-  <a href="https://github.com/Randishvold">
-    <img src="https://github-readme-stats.vercel.app/api?username=Randishvold&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Randishvold's GitHub Stats" />
+  <a href="https://github.com/randishdeviant">
+    <img src="https://github-readme-stats.vercel.app/api?username=Randishvold&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Randishdeviant's GitHub Stats" />
   </a>
   <br/>
-  <a href="https://github.com/Randishvold">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randishvold&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/randishdeviant">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randishdeviant&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </p>
 
